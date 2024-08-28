@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MS-clarity-app/static/css/main.39d9f36a.css",
+    "main.js": "/MS-clarity-app/static/js/main.dad35ba5.js",
+    "static/js/453.654ddea3.chunk.js": "/MS-clarity-app/static/js/453.654ddea3.chunk.js",
+    "index.html": "/MS-clarity-app/index.html",
+    "main.39d9f36a.css.map": "/MS-clarity-app/static/css/main.39d9f36a.css.map",
+    "main.dad35ba5.js.map": "/MS-clarity-app/static/js/main.dad35ba5.js.map",
+    "453.654ddea3.chunk.js.map": "/MS-clarity-app/static/js/453.654ddea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39d9f36a.css",
+    "static/js/main.dad35ba5.js"
+  ]
+}
